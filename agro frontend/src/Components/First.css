@@ -1,0 +1,62 @@
+.firsthead{
+    margin-top: 10%;
+    font-size:59px;
+}
+.firstbutt{
+    font-size: 20px;
+width: 120px;
+height: 50px;
+justify-content: center;
+    margin-top: 10%;
+    /* margin-left: 30%; */
+    background-color: #d7d15e;
+    color: #0a0909;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.con{
+    /* background-color:rgb(216, 238, 197); */
+    height: 500px;
+    background: rgba(216, 232, 181, 0.5);
+    border-radius: 10%;
+    width: 700px;
+    margin-top: 100px;
+}
+.firstimage{
+    height: 100vh;
+    width: 100%;
+    background: no-repeat;
+    background-size: cover;
+    position: absolute;
+
+    background-image: url("https://img.freepik.com/free-photo/rolling-out-fresh-grass-landscaper-work_60438-3645.jpg?t=st=1706625268~exp=1706628868~hmac=1e6effc68a5b333006d20dbefcbfee2238aa5e6d760f52464cc3c2c2ca32f372&w=1380");
+}
+.secondbutt{
+    font-size: 20px;
+width: 120px;
+height: 50px;
+    margin-top: 5%;
+    /* margin-right: 30%; */
+    margin-left: 25%;
+    background-color: #d7d15e;
+    color: #0a0909;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.usericon{
+    margin-top: 10%;
+    justify-content: center;
+    /* margin-left: 30%; */
+    height: 10%;
+    width: 10%;
+}
+.adminicon{
+    margin-left: 29%;
+    /* margin-top: 5%; */
+    height: 10%;
+    width: 10%;
+}
